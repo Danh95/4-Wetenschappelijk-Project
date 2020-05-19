@@ -1,0 +1,68 @@
+
+*** 11:35:56 *** 
+Starting Nastran Exporter
+
+*** 11:35:56 *** 
+Writing file C:\Users\stef_\Documents\Universiteit\Academiejaar 
+2019-2020\Semester 2\4-Composter\AS\as_voor_het_prototype_sim3-solution_1.dat
+ 
+*** 11:35:56 *** 
+Writing SIMCENTER NASTRAN 2019.2 compatible deck
+
+*** 11:35:56 *** 
+Writing Nastran System section
+
+*** 11:35:56 *** 
+Writing File Management section
+
+*** 11:35:56 *** 
+Writing Executive Control section
+
+*** 11:35:56 *** 
+Writing Case Control section
+
+*** 11:35:57 *** 
+Writing Bulk Data section
+
+*** 11:35:57 *** 
+Writing Nodes
+
+*** 11:35:57 *** 
+Writing Elements
+
+*** 11:35:57 *** 
+Writing Physical Properties
+
+*** 11:35:57 *** 
+Writing Materials
+
+*** 11:35:57 *** 
+Writing Degree-of-Freedom Sets
+
+*** 11:35:57 *** 
+Writing Loads and Constraints
+
+*** 11:35:57 *** 
+Writing Coordinate Systems
+
+*** 11:35:57 *** 
+Summary of Bulk Data cards written
+
++----------+----------+
+|   NAME   |  NUMBER  |
++----------+----------+
+| CTETRA   | 3277     |
+| FORCE    | 1704     |
+| GRID     | 5778     |
+| LOAD     | 1        |
+| MAT1     | 1        |
+| MATT1    | 1        |
+| PARAM    | 6        |
+| PSOLID   | 1        |
+| SPC      | 304      |
+| TABLEM1  | 3        |
++----------+----------+
+
+*** 11:35:57 *** 
+Nastran Deck Successfully Written
+
